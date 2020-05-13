@@ -1,6 +1,6 @@
 # OOP
-##Object Oriented Programming Project - Nonogram Game
-###Tasks:
+## Object Oriented Programming Project - Nonogram Game
+### Tasks:
 - [x] Interfata grafica
 - [ ] RTTI
 - [X] Abstract Classes
