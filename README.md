@@ -1,7 +1,7 @@
 # OOP
 Object Oriented Programming Project - Nonogram Game
 - Tasks:
-- [] Interfata grafica
+- [x] Interfata grafica
 - [] RTTI
 - [] Abstract Classes
 - [] Heap Memory Allocation
