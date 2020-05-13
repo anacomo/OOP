@@ -12,5 +12,5 @@
 - [ ] Smart pointers (min 1)
 - [ ] Design Patterns (min 2)
 - [ ] Features of C++ 17/20
-- Bonus:
+## Bonus:
 - [ ] Move Semantics
