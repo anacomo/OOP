@@ -3,6 +3,7 @@
 ### Tasks:
 - [x] Interfata grafica
 - [ ] RTTI
+- [ ] Overloading operators (min 4)
 - [X] Abstract Classes
 - [X] Heap Memory Allocation
 - [ ] Exceptions (de extins std::exceptions)
